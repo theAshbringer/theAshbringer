@@ -20,7 +20,7 @@ My name is Kristina and I'm frontend-developer passionate about coding and seein
 - 🌱 Сейчас активно изучаю React.js, архитектуры приложений, тестирование кода.
 - :pencil: Писать логику люблю больше, чем верстать :smirk:
 
-## My skills :muscle::
+## My skills :muscle:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,11 +46,11 @@ My name is Kristina and I'm frontend-developer passionate about coding and seein
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,react,webpack,pug,figma,gitlab,bash,py,postgres,sqlite,matlab&perline=5)]() -->
 
 
-## Extra skills
+## Extra skills :metal:
 [![My Skills](https://skillicons.dev/icons?i=matlab&perline=5)]()
 
 
-## I learn with:
+## I learn with :books:
 <!-- [![codewars](https://www.codewars.com/users/theAshbringer/badges/large)](https://www.codewars.com/users/theAshbringer)    -->
 ![Codewars](https://github.r2v.ch/codewars?user=theAshbringer&top_languages=true)
 
