@@ -15,10 +15,10 @@
 
 My name is Kristina and I'm frontend-developer passionate about coding and seeing the result of my work.
 
-- 👀 Стремлюсь разрабатывать стабильные веб-приложения с заботой о пользователе.
-- :eyeglasses: Серьезно отношусь к качеству кода и соблюдаю стайлгайды
-- 🌱 Сейчас активно изучаю React.js, архитектуры приложений, тестирование кода.
-- :pencil: Писать логику люблю больше, чем верстать :smirk:
+- :point_up: Eager to develop stable web applications with care of the user
+- :eyeglasses: Take code quality seriously and follow style guides
+- 🌱 I'm currently learning React.js, architectural patterns and code testing and I'm not going to stop
+- :sun_with_face: Fun fact : I'm crazy about Japanese stuff: language, anime, Ghost Of Thushima :mount_fuji:
 
 ## My skills :muscle:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
