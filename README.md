@@ -1,5 +1,6 @@
-<h1 align="center">I'm Kristina Jumanova (Кристина Джуманова)!
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+![banner](https://user-images.githubusercontent.com/89603206/188308562-ca8f7bc0-2f68-4322-97ff-a386aad692b0.png)
+<!-- <h1 align="center">I'm Kristina Jumanova (Кристина Джуманова)! -->
+<!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <div id="badges" align="center">
 <!--   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,8 +18,8 @@ My name is Kristina and I'm frontend-developer passionate about coding and seein
 
 - :point_up: Eager to develop stable web applications with care of the user
 - :eyeglasses: Take code quality seriously and follow style guides
-- 🌱 I'm currently learning React.js, architectural patterns and code testing and I'm not going to stop
-- :sun_with_face: Fun fact : I'm crazy about Japanese stuff: language, anime, Ghost Of Thushima :mount_fuji:
+- 🌱 I'm currently learning React.js, architectural patterns and code testing with Jest and I'm not going to stop
+- :sun_with_face: Fun fact : I'm crazy about Japanese language, anime, Ghost Of Thushima :mount_fuji:
 
 ## My skills :muscle:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
