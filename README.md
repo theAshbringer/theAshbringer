@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-<h3 align="center">Passionate Frontend-Developer</h3>
+<h3 align="center">Frontend-Developer</h3>
 
 My name is Kristina and I'm frontend-developer passionate about coding and seeing the result of my work.
 
@@ -21,18 +21,22 @@ My name is Kristina and I'm frontend-developer passionate about coding and seein
 - 🌱 I'm currently learning React.js, architectural patterns and code testing with Jest and I'm not going to stop
 - :sun_with_face: Fun fact : I'm crazy about Japanese language, anime, Ghost Of Thushima :mount_fuji:
 
-## My skills :muscle:
+## Get in touch with me
+- 📧 Email: kristina.jumanova@gmail.com
+- 📱 Telegram: @kristina_jojo
+
+## :muscle: My skills 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
-## My tools 🛠️
+## 🛠️ My tools 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
@@ -43,7 +47,7 @@ My name is Kristina and I'm frontend-developer passionate about coding and seein
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,vue,react,webpack,pug,figma,gitlab,bash,py,postgres,sqlite,matlab&perline=5)]() -->
 
 
-## Extra skills :metal:
+## :metal: Extra skills 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -52,7 +56,7 @@ My name is Kristina and I'm frontend-developer passionate about coding and seein
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab&perline=5"></a>
 
 
-## I learn with :books:
+## :books: I learn with 
 <!-- [![codewars](https://www.codewars.com/users/theAshbringer/badges/large)](https://www.codewars.com/users/theAshbringer)    -->
 ![Codewars](https://github.r2v.ch/codewars?user=theAshbringer&top_languages=true)
 
