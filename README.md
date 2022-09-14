@@ -56,7 +56,7 @@ My name is Kristina and I'm frontend-developer passionate about coding and seein
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab&perline=5"></a>
 
 
-## :books: I learn with 
+## :books: I practice with 
 <!-- [![codewars](https://www.codewars.com/users/theAshbringer/badges/large)](https://www.codewars.com/users/theAshbringer)    -->
 ![Codewars](https://github.r2v.ch/codewars?user=theAshbringer&top_languages=true)
 
