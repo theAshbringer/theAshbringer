@@ -19,7 +19,7 @@ My name is Kristina and I'm frontend-developer passionate about coding and seein
 - :point_up: Eager to develop stable web applications with care of the user
 - :eyeglasses: Take code quality seriously and follow style guides
 - 🌱 I'm currently learning React.js, architectural patterns and code testing with Jest and I'm not going to stop
-- :sun_with_face: Fun fact : I'm crazy about Japanese language, anime, Ghost Of Thushima :mount_fuji:
+- :sun_with_face: Fun fact : I'm crazy about Japanese language, anime, Ghost Of Tsushima :mount_fuji:
 
 ## Get in touch with me
 - 📧 Email: kristina.jumanova@gmail.com
