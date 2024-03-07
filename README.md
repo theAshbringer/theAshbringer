@@ -18,7 +18,6 @@ My name is Kristina and I'm frontend-developer passionate about coding and seein
 
 - :point_up: Eager to develop stable web applications with care of the user
 - :eyeglasses: Take code quality seriously and follow style guides
-- 🌱 I'm currently learning React.js, architectural patterns and code testing with Jest and I'm not going to stop
 - :sun_with_face: Fun fact : I'm crazy about Japanese language, anime, Ghost Of Tsushima :mount_fuji:
 
 ## Get in touch with me
@@ -49,7 +48,6 @@ My name is Kristina and I'm frontend-developer passionate about coding and seein
 
 ## :metal: Extra skills 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
